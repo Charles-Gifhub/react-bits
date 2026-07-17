@@ -1,0 +1,4 @@
+interface:
+  display_name: "React Bits"
+  short_description: "Add and customize animated React Bits components"
+  default_prompt: "Use $react-bits to add a polished animated component to this React project."
